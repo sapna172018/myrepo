@@ -1,3 +1,0 @@
-*.orig
-*.log
-README.md.txt.orig
